@@ -4,4 +4,4 @@ Mini projeto de um Gerador de Cores Aleatórias utilizando html, css e javascrip
 
 O mesmo está disponível no endereço abaixo:
 
--> Pendente de adicionar o link
+-> https://lhrp.app.br/github/geradorCoresAleatorias
